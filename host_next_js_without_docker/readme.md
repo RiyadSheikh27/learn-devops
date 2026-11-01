@@ -18,6 +18,7 @@ sudo systemctl enable nginx && sudo systemctl start nginx
 cd ~/your-project
 npm install
 npm run build
+clean
 ```
 
 Check the start port:
